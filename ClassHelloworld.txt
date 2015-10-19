@@ -1,4 +1,4 @@
 //PrintLN("HelloWorld;");
 PrintLN("HelloWorld;");
 PrintLN("HelloPeople;");
-PrintLN(High my dear frend!);
+//PrintLN(High my dear frend!);
